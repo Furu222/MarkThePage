@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "default_locale": "ja",
+    "name": "__MSG_extName__",
+    "description": "__MSG_extDescription__",
+    "icons": {
+        "128":"",
+        "48":"",
+        "16":""
+    },
+    "browser_action": {
+        "default_icon": "",
+        "default_popup": "",
+    },
+    "eventpage":{
+        "scripts": [] 
+    },
+}
