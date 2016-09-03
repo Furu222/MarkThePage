@@ -30,7 +30,7 @@ And you can export the data.
  - データをCSVでエクスポート/インポート
 
 ## Installation
-こちら（Webstora）からダウンロード
+こちら（Webstore）からダウンロード
 
 ## Auther
 
